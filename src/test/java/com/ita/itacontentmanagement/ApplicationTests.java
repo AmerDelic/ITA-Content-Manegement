@@ -1,10 +1,10 @@
-package com.example.itacontentmanagement;
+package com.ita.itacontentmanagement;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ItaContentManagementApplicationTests {
+class ApplicationTests {
 
     @Test
     void contextLoads() {
